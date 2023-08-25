@@ -43,5 +43,5 @@ npx grafbase init --config-format typescript
 - bd: https://grafbase.com/dashboard
 - git: https://github.com/adrianhajdin/project_nextjs13_flexibble
 - vid: https://yewtu.be/watch?v=986hztrfaSQ
-- tim: 44:20
+- tim: 45:31
 
